@@ -7,7 +7,7 @@ const UserDetailCard = () => {
         <div className="flex items-center">
           {/* The logo div for J */}
           <div className="w-[90px] h-[90px] bg-button-primary rounded-full">
-            <div className="text-medium-size font-bold text-primary-color m-5 flex justify-center ">
+            <div className="text-medium-size font-bold text-primary-color pl-10 pt-[10px]">
               J
             </div>
           </div>
