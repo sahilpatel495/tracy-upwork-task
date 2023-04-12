@@ -18,7 +18,14 @@ module.exports = {
         "small-size": "30px",
         "smaller-size": "26px",
         "smallest-size": "26px",
+
+        "ideal-font-size": "30px",
+        "biggest-font-size": "26px",
+        "primary-font-size": "20px",
+        "secondary-font-size": "15px",
+        "tertiary-font-size": "12px",
       },
+
       fontFamily: { noto: ["Noto Sans"] },
     },
   },

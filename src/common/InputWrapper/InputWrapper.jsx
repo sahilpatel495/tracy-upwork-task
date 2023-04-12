@@ -3,9 +3,9 @@ import "./../../App.css";
 
 const InputWrapper = ({ placeholder, value, type, className }) => {
   return (
-    <div className="px-12 py-6">
+    <div className="px-7 py-3">
       <input
-        className={`border border-border-primary rounded-xl w-full h-[100px] py-3 px-4 font-normal text-small-size text-primary-color leading-10 focus:outline-none focus:shadow-outline  ${className} `}
+        className={`border border-border-primary rounded-xl w-full  py-3 px-4 font-normal text-primary-font-size text-primary-color  focus:outline-none focus:shadow-outline  ${className} `}
         type={type}
         placeholder={placeholder}
         value={value}
