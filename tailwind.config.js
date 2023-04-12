@@ -13,12 +13,6 @@ module.exports = {
         "button-secondary": "#1E21FF",
       },
       fontSize: {
-        "biggest-size": "50px",
-        "medium-size": "40px",
-        "small-size": "30px",
-        "smaller-size": "26px",
-        "smallest-size": "26px",
-
         "ideal-font-size": "30px",
         "biggest-font-size": "26px",
         "primary-font-size": "20px",
