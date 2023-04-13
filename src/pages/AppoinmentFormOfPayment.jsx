@@ -16,7 +16,7 @@ const AppoinmentFormOfPayment = () => {
       <UserDetailCard />
 
       <TitleOnPage
-        className="text-biggest-font-size-size"
+        className="text-biggest-font-size"
         title="Selected services"
       />
 
